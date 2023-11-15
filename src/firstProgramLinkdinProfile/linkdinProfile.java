@@ -20,4 +20,9 @@ public class linkdinProfile {
 
 	}
 
+	private static void makeCall() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
